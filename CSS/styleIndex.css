@@ -46,14 +46,14 @@ h6 {
         margin-left: 80px;
         grid-template-columns: 110px 110px;
         grid-template-rows: 100px 100px 100px;
-        column-gap: 10px;
+        column-gap:10px;
         row-gap: 20px;
         overflow: hidden;
     }
 
     .container {
         top: -10%;
-        margin-left: 20%;
+       
     }
 
     body {
