@@ -47,8 +47,7 @@ h6 {
         margin-left: 70px;
         grid-template-columns: 140px 140px;
         grid-template-rows: 120px 120px 120px;
-        column-gap: 0vw;
-        row-gap: 10vw;
+        
     }
 
     .container {
@@ -63,7 +62,7 @@ h6 {
     main {
         overflow: hidden;
     }
-    
+
     h6{
         color: #ffffff;
         text-align: center;
