@@ -49,6 +49,7 @@ h6 {
         grid-template-rows: 120px 120px 120px;
         column-gap: 0vw;
         row-gap: 10vw;
+        overflow: hidden;
     }
 
     .container {
