@@ -49,7 +49,6 @@ h6 {
         grid-template-rows: 120px 120px 120px;
         column-gap: 0vw;
         row-gap: 10vw;
-        overflow: hidden;
     }
 
     .container {
@@ -60,6 +59,11 @@ h6 {
     body {
         overflow: hidden;
     }
+
+    main {
+        overflow: hidden;
+    }
+    
     h6{
         color: #ffffff;
         text-align: center;
