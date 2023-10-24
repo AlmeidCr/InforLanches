@@ -47,7 +47,7 @@ h6 {
         grid-template-columns: 110px 110px;
         grid-template-rows: 100px 100px 100px;
         column-gap:10px;
-        row-gap: 20px;
+        row-gap: 40px;
         overflow: hidden;
     }
 
